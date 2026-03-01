@@ -1,4 +1,4 @@
-## Hi there I'm Indrani B c 👋
+## Hi there I'm Indrani B C 👋
 
 # 💫 About Me:
 🎓 Final Year Student<br>📊 Aspiring Data Analyst<br>💡 Passionate about solving real-world problems using data
